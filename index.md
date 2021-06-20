@@ -8,7 +8,7 @@ Throught out my school career journey, I went from wanting to be a Biomedical En
 ## **Self Assessment**
 
 ## **Link to Documents**
-Enhacement One Document Link [Document](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/Enhancement%20One.docx)
+**Enhacement One Document Link [Document](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/Enhancement%20One.docx)**
 Animal CRUD File Link [AnimalCRUD](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/animalcrud_v2.py)
 
 

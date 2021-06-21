@@ -1,4 +1,5 @@
 # Welcome to Nellie Umanah's SNHU Capstone Project
+
 This ePortfolio is a capstone project that  is required for the Southern New Hampsire University's Computer Science curriculum. Here, I demonstrated my  growth and knowledge in Software Design and Egineering, Algorithms and Data Structures, and Databases. Different links are provided to showcase the enchancement made on artifacts throughout the course of this project.
 
 ## **Educational Reflection**
@@ -13,11 +14,16 @@ Each enhancement I made was done over the course of a week and I made these enha
 
 This ePortfolio showcased my ability as a programmer, by be able to read the requirements, tackle it, then implenment it. I hope that these enhancments demonstrates my skills that I developed over the course of these school years. I have learned alot of new techniques while I was pursing my Computer Science Degree and I plan on continuing to enhance those new skills all while on my new career path.
 
-## **Link to Documents**
-- [Enhacement One Files](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/Enhancement%20One.docx)
-- [Enhancement Two Files](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/animalcrud_v2.py)
-- [Enhancement Three Files](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/animalcrud_v2.py)
-- [Enhancement Four Files](https://github.com/nellieumanah/ePortfolio/blob/gh-pages/animalcrud_v2.py)
+## **Link to Code Review Documents**
+
+- [Code Review Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/CodeReview)
+
+## **Link to Enhancement Documents**
+
+- [Enhacement One Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Enhancement%20One)
+- [Enhancement Two Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Enhancement%20Two)
+- [Enhancement Three Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Enhancement%20Three)
+- [Enhancement Four Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Enhancement%20Four)
 
 
 

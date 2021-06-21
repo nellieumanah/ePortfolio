@@ -16,7 +16,7 @@ This ePortfolio showcased my ability as a programmer, by be able to read the req
 
 ## **Link to Code Review Documents**
 
-[Code Review Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/CodeReview)
+- [Code Review Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/CodeReview)
 
 ## **Link to Enhancement Documents**
 

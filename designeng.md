@@ -5,3 +5,7 @@
   I chose this artifact as it best depicts the functionality of automating data into a database and also validating that the data entered was valid and consistent with the format required.This was a very great learning experience as I was able to make so many improvements to the code based on recoomedations from professionals who helped me with my code review to make subtle changes.
 
   The enhancements involved learning a lot of new thing and also gaining alot of insight into a level of automation required for real life scenarios. I also learned how to properly use python modules and how their syntax structure works.
+  
+#**Link to Software Design and Engineering Files**
+
+[Artifact Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Software%20Design%20and%20Engineering)

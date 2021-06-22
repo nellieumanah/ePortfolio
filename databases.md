@@ -7,6 +7,6 @@
   The enhancements involved learning a lot of new thing and also gaining alot of insight into a level of automation required for real life scenarios. I also learned how to properly use python modules and how their syntax structure works.
 
 
-#**Link to Databases Files**
+**Link to Databases Files**
 
 [Artifact Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Databases)

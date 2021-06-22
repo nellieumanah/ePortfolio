@@ -6,6 +6,6 @@
 
   The enhancements involved learning a lot of new thing and also gaining alot of insight into a level of automation required for real life scenarios. I also learned how to properly use python modules and how their syntax structure works.
   
-#**Link to Software Design and Engineering Files**
+**Link to Software Design and Engineering Files**
 
 [Artifact Files](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Software%20Design%20and%20Engineering)

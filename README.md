@@ -18,7 +18,7 @@ This ePortfolio showcased my ability as a programmer, by be able to read the req
 
 - [Code Review Video](https://www.youtube.com/watch?v=zY2T1o4ZhOE)
 
-## **Link to Enhancement Documents**
+## **Link to Artifacts Pages**
 
 - [Software Design and Engineering](https://nellieumanah.github.io/ePortfolio/designeng)
 - [Databases](https://nellieumanah.github.io/ePortfolio/databases)

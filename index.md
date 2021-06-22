@@ -20,9 +20,9 @@ This ePortfolio showcased my ability as a programmer, by be able to read the req
 
 ## **Link to Enhancement Documents**
 
-- [Software Design and Engineering](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Enhancement%20One)
+- [Software Design and Engineering](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Software%20Design%20and%20Engineering)
 - [Databases](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Databases)
-- [Algorithms and Data Structures](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Enhancement%20Three)
+- [Algorithms and Data Structures](https://github.com/nellieumanah/ePortfolio/tree/gh-pages/Algorithms%20and%20Data%20Structures)
 
 
 

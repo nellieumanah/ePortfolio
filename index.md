@@ -18,7 +18,7 @@ This ePortfolio showcased my ability as a programmer, by be able to read the req
 
 ## **Link to Code Review Documents**
 
-- [Code Review Video](https://www.youtube.com/watch?v=zY2T1o4ZhOE)
+- [Code Review Video](https://youtu.be/7lLp3oOGSCQ)
 
 ## **Link to Artifacts Pages**
 
